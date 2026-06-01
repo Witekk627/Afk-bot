@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": Ntropolna.aternos.me
-    "port": 40572
+    "ip": "Ntropolna.aternos.me",
+    "port": 40572,
     "version": "",
     "try-creative": false
   },
